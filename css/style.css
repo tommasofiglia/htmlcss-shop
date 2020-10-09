@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+.first_row, .second_row{
+  text-align: center;
+  margin-top: 35px;
+}
+
 .first_item, .second_item, .third_item{
   display: inline-block;
   position: relative;
