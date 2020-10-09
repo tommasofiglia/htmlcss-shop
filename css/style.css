@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+.first_item, .second_item, .third_item{
+  display: inline-block;
+  position: relative;
+}
+
+.discount_green{
+  background-color: green;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
