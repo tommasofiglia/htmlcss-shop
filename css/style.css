@@ -25,3 +25,24 @@
   top: 0;
   right: 0;
 }
+
+.heart{
+  display: none;
+  color: red;
+  font-size: 40px;
+  position: absolute;
+  left: 135px;
+  bottom: 2%;
+}
+
+.first_item:hover .heart{
+  display: block;
+}
+
+.second_item:hover .heart{
+  display: block;
+}
+
+.third_item:hover .heart{
+  display: block;
+}
